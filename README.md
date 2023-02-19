@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Engineering at UPM
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - ⚡ I love UX/UI Design
 
