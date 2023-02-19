@@ -6,7 +6,7 @@
 
 - ⚡ I love UX/UI Design
 
-[comment]: # - 👨‍💻 All of my projects are available at **[nihelkb.github.io](https://nihelkb.github.io)**
+<!--- - 👨‍💻 All of my projects are available at **[nihelkb.github.io](https://nihelkb.github.io)** --->
 
 - 📫 How to reach me **nihelkella@gmail.com**
 
