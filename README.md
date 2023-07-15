@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently studying Computer Engineering at UPM
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Cloud fundamentals**
 
-- ⚡ I love UX/UI Design
+- ⚡ I love to solve coding problems
 
 <!--- - 👨‍💻 All of my projects are available at **[nihelkb.github.io](https://nihelkb.github.io)** --->
 
